@@ -21,8 +21,13 @@ As part of the project, I tested features such as:
 - Windows 10 Pro - Google Chrome - 4G Wi-fi
 
 
-- I managed to complete all the planned tests
-- During testing, there were no difficulties or problems with the test environment
-- The time of entire project was carried out for 1 day, an average of 8 hours 
-- I didn't limit myself only to Functional Test cases and tried to write Security, UI and Performance ones (giving my knlowledge and technology limitations I only created a few ones)
+I managed to complete all the planned tests
+
+
+During testing, there were no difficulties or problems with the test environment
+
+
+The time of entire project was carried out for 1 day, an average of 8 hours 
+
+I didn't limit myself only to Functional Test cases and tried to write Security, UI and Performance ones (giving my knlowledge and technology limitations I only created a few ones)
 
